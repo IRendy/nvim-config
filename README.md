@@ -2,7 +2,7 @@
 
 ## 基本说明
 
-该项目基于[LazyVim](https://github.com/LazyVim/LazyVim)，并添加了一些插件和自定义的配置。
+该项目基于 [LazyVim](https://github.com/LazyVim/LazyVim)，并添加了一些插件和自定义的配置。
 部分配置参考了 [pdcxs的Neovim配置](https://github.com/pdcxs/nvim)。
 
 ## 安装方法
