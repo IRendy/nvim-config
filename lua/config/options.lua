@@ -3,9 +3,9 @@
 -- Add any additional options here
 
 if vim.g.neovide then
-  vim.o.guifont = "CaskaydiaCove Nerd Font"
+  vim.o.guifont = "CaskaydiaCove Nerd Font:h15"
   vim.g.neovide_cursor_vfx_mode = "railgun"
-  vim.g.neovide_scale_factor = 0.9
+  vim.g.neovide_scale_factor = 0.7
   -- turn off animate because we are using neovide
   vim.g.snackes_animate = true
 end
